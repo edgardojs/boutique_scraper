@@ -1,7 +1,7 @@
 # Scraper for boutiques in Puerto Rico
 ## Using a scrapy spider, I have retrieved the data about boutiques in PR, which added up to 180 with directions, phone numbers and addresses
 
-###To use, please install a virtual environment with venv per the scrapy documentation. [Scrapy documentation](https://docs.scrapy.org/en/latest/ "Scrapy Documentation") And then on the top folder of the scraper run:
+### To use, please install a virtual environment with venv per the scrapy documentation. [Scrapy documentation](https://docs.scrapy.org/en/latest/ "Scrapy Documentation") And then on the top folder of the scraper run:
 
 <pre><code>scrapy crawl -o boutique boutique.csv</code></pre>
 

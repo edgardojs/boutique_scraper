@@ -1,5 +1,3 @@
-from cgitb import text
-from fileinput import filename
 import scrapy
  
 class BoutiqueSuperPagesSpider(scrapy.Spider):
